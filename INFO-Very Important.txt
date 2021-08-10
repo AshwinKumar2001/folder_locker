@@ -1,0 +1,13 @@
+Certain things to note about this application:
+
+1) This version only allows a user to hide folders( which are not empty ).
+2) When you hide a folder with whitespace in between for example --> "New Folder", it will appear as "New_Folder" in the listbox. It is the same thing.
+   This is also temporary. Newer versions will improve upon this.
+
+
+
+-------------------------------------------------------------WARNING-Very Important!!!!!!!!!-----------------------------------------------------------------
+
+PLEASE TRY TO HIDE SMALL SIZED FOLDERS ( < 50 KB) INITIALLY. THIS IS BECAUSE, LARGER FOLDERS WILL TAKE A LOT OF TIME TO ENCRYPT AND HENCE, IT MAY LOOK LIKE THE APPLICATION HAS FROZEN.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
